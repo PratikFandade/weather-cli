@@ -20,5 +20,5 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pratikfandade/weather_cli.git
+   git clone https://github.com/pratikfandade/weather-cli.git
    cd weather-station
